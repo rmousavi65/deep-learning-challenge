@@ -42,4 +42,3 @@
 
 
 ## Step 4: Write a Report on the Neural Network Model
-*The report is attached in this repo under the name "Analysis.pdf".*
